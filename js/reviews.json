@@ -1,0 +1,152 @@
+reviews = [
+  {
+    "content": "excellent work! delivered on schedule! available for bug fixes...",
+    "rating": 5,
+    "created_at": 1578667266,
+    "writer": {
+      "username": "eladratson",
+      "avatar_url": "https://cdn.filestackcontent.com/PTEvI7ltRoKhwtdTLyQt",
+      "name": "SAS Vayehee"
+    }
+  },
+  {
+    "content": "Best help, as always. Thank you very much.",
+    "rating": 5,
+    "created_at": 1578504447,
+    "writer": {
+      "username": "ciraionut",
+      "avatar_url": "https://www.gravatar.com/avatar/37ef80929509a83f8342b47ecbefee53?d=mm&s=200",
+      "name": "CALIMANUT C."
+    }
+  },
+  {
+    "content": "he is my saver",
+    "rating": 5,
+    "created_at": 1577492360,
+    "writer": {
+      "username": "riochenrio",
+      "avatar_url": "https://cdn.filestackcontent.com/ErKGQeJaR8K0rDQ2vpAl",
+      "name": "Rio chen"
+    }
+  },
+  {
+    "content": "thx!\nHe knows everything",
+    "rating": 5,
+    "created_at": 1576722577,
+    "writer": {
+      "username": "riochenrio",
+      "avatar_url": "https://cdn.filestackcontent.com/ErKGQeJaR8K0rDQ2vpAl",
+      "name": "Rio chen"
+    }
+  },
+  {
+    "content": "Awesome, saved me!!!!!!!!\nVery smart, almost a genius, meets all my needs form data anlysis, web scraping and also Graph Database!",
+    "rating": 5,
+    "created_at": 1576698576,
+    "writer": {
+      "username": "riochenrio",
+      "avatar_url": "https://cdn.filestackcontent.com/ErKGQeJaR8K0rDQ2vpAl",
+      "name": "Rio chen"
+    }
+  },
+  {
+    "content": "very knowledegble",
+    "rating": 5,
+    "created_at": 1576683965,
+    "writer": {
+      "username": "riochenrio",
+      "avatar_url": "https://cdn.filestackcontent.com/ErKGQeJaR8K0rDQ2vpAl",
+      "name": "Rio chen"
+    }
+  },
+  {
+    "content": "Mathias is very responsive and very helpful! He will explain things and complete a job very fast even if it is complex! very knowledgeable guy and I highly recommend!",
+    "rating": null,
+    "created_at": 1576184346,
+    "writer": {
+      "username": "lorinelnimri",
+      "avatar_url": "https://www.gravatar.com/avatar/3476368b6a569867527c0499a55d7f07?d=mm&s=200",
+      "name": "Lorin"
+    }
+  },
+  {
+    "content": "Excellent job. Easy to work with. It was a pleasure working with Mathias.",
+    "rating": 5,
+    "created_at": 1576009543,
+    "writer": {
+      "username": "dougschumacher",
+      "avatar_url": "https://cdn.filestackcontent.com/DcjyXeRSHCvkwvDnwTNl",
+      "name": "Doug Schumacher"
+    }
+  },
+  {
+    "content": "Mathias is very helpful and quick. Very knowledgeable in machine learning. I highly recommend for your project needs!",
+    "rating": null,
+    "created_at": 1575599889,
+    "writer": {
+      "username": "lorinelnimri",
+      "avatar_url": "https://www.gravatar.com/avatar/3476368b6a569867527c0499a55d7f07?d=mm&s=200",
+      "name": "Lorin"
+    }
+  },
+  {
+    "content": "Very kind guy and considerate. Helped me solve my problem",
+    "rating": 5,
+    "created_at": 1574898681,
+    "writer": {
+      "username": "kupperu",
+      "avatar_url": "https://www.gravatar.com/avatar/d56e6b2bf159e36ffc5c646f71dd736c?d=mm&s=200",
+      "name": "Ken"
+    }
+  },
+  {
+    "content": "Excellent Python skills + professional",
+    "rating": 5,
+    "created_at": 1574257179,
+    "writer": {
+      "username": "nashmansu",
+      "avatar_url": "https://www.gravatar.com/avatar/43b8e38885bd712a46f97482cd921ec0?d=mm&s=200",
+      "name": "nash manny"
+    }
+  },
+  {
+    "content": "A great and reliable data analyst. I have learnt a lot from Mathias.",
+    "rating": 5,
+    "created_at": 1573830904,
+    "writer": {
+      "username": "musinguziblanshe",
+      "avatar_url": "https://cdn.filestackcontent.com/fIpkA2snR6ijh6DB0LaC",
+      "name": "john Owakubariho"
+    }
+  },
+  {
+    "content": "I've worked with many engineers in the past, Mathias got me going from the start. I will work with him again.",
+    "rating": 5,
+    "created_at": 1573771975,
+    "writer": {
+      "username": "mohamedkamal",
+      "avatar_url": "https://cdn.filestackcontent.com/g1svAwvSIObBJlCyiGeY",
+      "name": "Mohamed Kamal"
+    }
+  },
+  {
+    "content": "Mathias is great so knowledgable, he helped me out  a lot, highly recommended, he talks you through everything helping you learn and improve. Thank you.",
+    "rating": 5,
+    "created_at": 1572997474,
+    "writer": {
+      "username": "daveb1392",
+      "avatar_url": "https://cdn.filestackcontent.com/E8WoCJQWStKkplUQBNn7",
+      "name": "David B."
+    }
+  },
+  {
+    "content": "Mathias was very knowledgeable not only with Python but also ML and AI algorithms.  He was also very responsive, and flexible with scheduling.  Overall Mathias was very helpful and a pleasure to work with.",
+    "rating": 5,
+    "created_at": 1572290362,
+    "writer": {
+      "username": "kirubel",
+      "avatar_url": "https://www.gravatar.com/avatar/14ddc74ab704360c257cfbd6277e5c7c?d=mm&s=200",
+      "name": "Kirubel Aklilu"
+    }
+  }
+]
