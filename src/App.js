@@ -5,13 +5,6 @@ import reviews from './data/reviews.json';
 import no_image from './data/no-image.jpg';
 import 'bootstrap/dist/css/bootstrap.css';
 
-function getImage(image){
-  if (image.includes("filestackcontent")){
-    return image
-  } else {
-    return no_image 
-  }
-}
 
 function shuffleArray(array) {
     for (var i = array.length - 1; i > 0; i--) {
@@ -27,10 +20,9 @@ function App() {
   shuffleArray(reviews)
   return (
         <div class="card-columns" align="center">
-            {reviews.slice(0,6).map((review, index)=>{
+            {reviews.slice(0,15).map((review, index)=>{
               return (
                 <div class="card" >
-                  <img class="card-img-top" src={getImage(review.writer.avatar_url)} alt="Card image cap"></img>
                   <div class="card-body">
                     <h5 class="card-title">{review.writer.name}</h5>
                     <p class="card-text">{review.content}</p>
